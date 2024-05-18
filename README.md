@@ -1,0 +1,2 @@
+# DS-MUSIC-PLAYER
+ The DS Music Player is a terminal-based application developed for a data structures course. It utilizes linked lists to manage music tracks and queues for playlists, ensuring efficient song insertion, deletion, and playback. The application also tracks the most repeated songs, offering insights into user preferences. This project showcases practical applications of data structures in a real-world scenario.
